@@ -66,7 +66,7 @@ export const content = {
   ],
   skills: {
     languages: ["Python", "Java", "C++", "JavaScript", "SQL", "HTML/CSS"],
-    aiData: ["pandas", "scikit-learn", "PyTorch (exposure)", "data preprocessing", "evaluation metrics"],
+    aiData: ["pandas", "scikit-learn", "PyTorch", "data preprocessing", "evaluation metrics"],
     tools: ["Git/GitHub", "Docker (familiar)", "REST APIs", "Flask"],
     other: ["communication", "collaboration", "experimentation"],
   },
