@@ -17,7 +17,7 @@ export function Contact() {
         
         <div className="space-y-6">
           <p className="text-lg text-muted-foreground">
-            Feel free to reach out if you'd like to connect or collaborate.
+            Feel free to reach out if you&apos;d like to connect or collaborate.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4">
